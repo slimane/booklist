@@ -1,0 +1,6 @@
+= `title`: Real World Haskell
+= `author`: Bryan O'Sullivan, John Goerzen, Don Stewart
+= `publisher`: Oreilly Japan
+= `tag` : Functional, haskell
+= `url`: https://www.oreilly.co.jp/ebook/bookshelf
+= `hosting` : Oreilly Japan

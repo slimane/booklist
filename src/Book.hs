@@ -4,16 +4,21 @@
 --            ) where
 --
 --
+import Data.Time
 
 type BookInfo = Maybe String
+type Author = Maybe [String]
+type Tag = Maybe [String]
 
-data Host = Oreilly | Manning | PragmaticBookshelf | Apress | InformIt deriving (Show, Eq)
+data Host = Oreilly | Manning | PragmaticBookshelf | Apress | InformIt |LeanPub | PacktPub | OreillyJapan | OHMSHA  deriving (Show, Eq)
 
 data Book = Book{title :: String
-                , author :: BookInfo
+                , author :: Author
                 , publisher :: BookInfo
+                , tag :: Maybe [String]
                 , url :: BookInfo
                 , hosting :: Maybe Host
+                , purchesBy :: Maybe Day
                 } deriving (Show, Eq)
 
 
@@ -21,8 +26,10 @@ defaultBook :: String -> Book
 defaultBook s = Book{title = s
                     , author = Nothing
                     , publisher = Nothing
+                    , tag = Nothing
                     , url = Nothing
-                    , hosting = Nothing}
+                    , hosting = Nothing
+                    , purchesBy = Nothing}
 
 
 main :: IO ()
