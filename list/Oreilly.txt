@@ -1,0 +1,40 @@
+Geometric Algebra for Computer Science
+Head First Algebra
+Functional JavaScript
+JavaScript: The Good Parts
+Learning JavaScript Design Patterns
+Speaking JavaScript
+Clojure Cookbook
+An Introduction to the Mathematics of Finance, 2nd Edition
+Head First Statistics
+Physics for Game Developers, 2nd Edition
+Ruby Under a Microscope
+Real World OCaml
+Lean UX
+The Myths of Innovation
+Running Lean, 2nd Edition
+Team Geek
+Clojure Programming
+Introducing Elixir
+Introducing Erlang
+Software Requirements 3, 3rd Edition
+HTML5 and CSS3 Responsive Web Design Cookbook
+Responsive Web Design with HTML5 and CSS3
+Scala Cookbook
+Land of Lisp
+Ruby Best Practices
+Ruby Cookbook
+Steampunking Our Future: An Embedded Historian’s Notebook
+Mind Performance Hacks
+97 Things Every Programmer Should Know
+Version Control with Git, 2nd Edition
+Code Complete, 2nd Edition
+LINQ Pocket Reference
+Regular Expression Pocket Reference, 2nd Edition
+SQL Pocket Guide, 3rd Edition
+Programming Perl, 4th Edition
+Programming C# 5.0
+SAS For Dummies, 2nd Edition
+Vintage Tomorrows
+Statistics in a Nutshell, 2nd Edition
+Network Warrior, 2nd Edition
