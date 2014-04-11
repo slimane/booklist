@@ -1,0 +1,9 @@
+Art of Computer Programming, Volume 1: Fundamental Algorithms: Fundamental Algorithms
+Mathematical Foundations of Computer NetworkingMathematical Foundations of Computer Networking
+Effective Objective-C 2.0: 52 Specific Ways to Improve Your iOS and OS X ProgramsEffective Objective-C 2.0: 52 Specific Ways to Improve Your iOS and OS X Programs
+Eloquent RubyEloquent Ruby
+Pragmatic Programmer, The: From Journeyman to MasterPragmatic Programmer, The: From Journeyman to Master
+Design Patterns in RubyDesign Patterns in Ruby
+Practical Object-Oriented Design in Ruby: An Agile PrimerPractical Object-Oriented Design in Ruby: An Agile Primer
+Managing the Unmanageable: Rules, Tools, and Insights for Managing Software People and TeamsManaging the Unmanageable: Rules, Tools, and Insights for Managing Software People and Teams
+AlgorithmsAlgorithms
