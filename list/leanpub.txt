@@ -1,0 +1,17 @@
+Becoming a Better Programmer
+Lisp for the Web
+Text Processing with Ruby
+Build APIs You Won't Hate (The Book)
+defmacro
+Debugging Ruby
+Lean Self Exercise Book
+The Agile Agency
+97 Things Every Programmer Should Know - Extended
+Personal Kanban in a Nutshell
+What I've Learned From Failure
+Functional Programming for the Object-Oriented Programmer
+JavaScript Allongé
+CoffeeScript Ristretto
+Kestrels, Quirky Birds, and Hopeless Egocentricity
+Software Architecture for Developers
+Working with Legacy Systems

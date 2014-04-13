@@ -1,0 +1,30 @@
+Build Awesome Command-Line Applications in Ruby 2
+    Author:  David Copeland
+Explore It!
+    Author:  Elisabeth Hendrickson
+Functional Programming Patterns in Scala and Clojure
+    Author:  Michael Bevilacqua-Linn
+Good Math
+    Author:  Mark C. Chu-Carroll
+HTML5 and CSS3 (2nd edition)
+    Author:  Brian P. Hogan
+Modern C++ Programming with Test-Driven Development
+    Author:  Jeff Langr
+Node.js the Right Way
+    Author:  Jim R. Wilson
+Programming Elixir
+    Author:  Dave Thomas
+Programming Erlang (2nd edition)
+    Author:  Joe Armstrong
+Seven Concurrency Models in Seven Weeks
+    Author:  Paul Butcher
+Seven Web Frameworks in Seven Weeks
+    Author:  Jack Moffitt, Fred Daoud
+The Healthy Programmer
+    Author:  Joe Kutner
+tmux
+    Author:  Brian P. Hogan
+Web Development with Clojure
+    Author:  Dmitri Sotnikov
+Working with Ruby Threads
+    Author:  Jesse Storimer
