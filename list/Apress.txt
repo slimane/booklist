@@ -1,0 +1,2 @@
+Beginning Haskell
+Expert F# 3.0

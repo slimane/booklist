@@ -1,38 +1,38 @@
-Akka in Action (eBook)
+### Akka in Action (eBook)
     author : Raymond Roestenburg, Rob Bakker, Rob Williams and Steven Haines
-Big Data (eBook)
+### Big Data (eBook)
     author : Nathan Marz and James Warren
-Elixir in Action (eBook)
+### Elixir in Action (eBook)
     author : Saša Juric´
-Functional Programming in Scala (eBook)
+### Functional Programming in Scala (eBook)
     author : Paul Chiusano and Rúnar Bjarnason
-Go in Action (eBook)
+### Go in Action (eBook)
     author : Brian Ketelsen, Erik St. Martin, and William Kennedy
-Java 8 in Action (eBook)
+### Java 8 in Action (eBook)
     author : Raoul-Gabriel Urma, Mario Fusco, and Alan Mycroft
-Machine Learning in Action (eBook)
+### Machine Learning in Action (eBook)
     author : Peter Harrington
-PowerShell in Depth (eBook)
+### PowerShell in Depth (eBook)
     author : Don Jones, Richard Siddaway, and Jeffery Hicks
-Practical Data Science with R (eBook)
+### Practical Data Science with R (eBook)
     author : Nina Zumel and John Mount
-R in Action (eBook)
+### R in Action (eBook)
     author : Robert I. Kabacoff
-R in Action, Second Edition (eBook)
+### R in Action, Second Edition (eBook)
     author : Robert Kabacoff
-Reactive Design Patterns (eBook)
+### Reactive Design Patterns (eBook)
     author : Roland Kuhn and Jamie Allen
-Real-World Machine Learning (eBook)
+### Real-World Machine Learning (eBook)
     author : Henrik Brink and Joseph Richards
-Specification by Example (eBook)
+### Specification by Example (eBook)
     author : Gojko Adzic
-The Art of Unit Testing (eBook)
+### The Art of Unit Testing (eBook)
     author : Roy Osherove
-The Art of Unit Testing, Second Edition (eBook)
+### The Art of Unit Testing, Second Edition (eBook)
     author : Roy Osherove
-The Joy of Clojure (eBook)
+### The Joy of Clojure (eBook)
     author : Michael Fogus and Chris Houser
-The Well-Grounded Rubyist (eBook)
+### The Well-Grounded Rubyist (eBook)
     author : David A. Black
-The Well-Grounded Rubyist, Second Edition (eBook)
+### The Well-Grounded Rubyist, Second Edition (eBook)
     author : David A. Black
